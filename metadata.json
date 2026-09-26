@@ -1,0 +1,6 @@
+{
+  "name": "CourseTrack Pro",
+  "description": "Student Coursework & Assessment Schedule Tracker featuring Assignment 1 & 2, CAT 1-3, Main Exam timelines, Online/Offline indicators, and smart notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
